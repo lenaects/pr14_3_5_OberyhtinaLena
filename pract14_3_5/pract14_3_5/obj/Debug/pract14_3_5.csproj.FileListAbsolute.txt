@@ -1,0 +1,9 @@
+C:\Users\305-6\Desktop\oberuhtina\osnova\pract14_3_5\pract14_3_5\bin\Debug\pract14_3_5.exe.config
+C:\Users\305-6\Desktop\oberuhtina\osnova\pract14_3_5\pract14_3_5\bin\Debug\pract14_3_5.exe
+C:\Users\305-6\Desktop\oberuhtina\osnova\pract14_3_5\pract14_3_5\bin\Debug\pract14_3_5.pdb
+C:\Users\305-6\Desktop\oberuhtina\osnova\pract14_3_5\pract14_3_5\obj\Debug\pract14_3_5.Form1.resources
+C:\Users\305-6\Desktop\oberuhtina\osnova\pract14_3_5\pract14_3_5\obj\Debug\pract14_3_5.Properties.Resources.resources
+C:\Users\305-6\Desktop\oberuhtina\osnova\pract14_3_5\pract14_3_5\obj\Debug\pract14_3_5.csproj.GenerateResource.cache
+C:\Users\305-6\Desktop\oberuhtina\osnova\pract14_3_5\pract14_3_5\obj\Debug\pract14_3_5.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\oberuhtina\osnova\pract14_3_5\pract14_3_5\obj\Debug\pract14_3_5.exe
+C:\Users\305-6\Desktop\oberuhtina\osnova\pract14_3_5\pract14_3_5\obj\Debug\pract14_3_5.pdb
